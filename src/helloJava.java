@@ -3,6 +3,6 @@
  */
 public class helloJava {
     public static void main(String[]args){
-        System.out.println("Thi is a New Java project!");
+        System.out.println("This is a New Java project!");
     }
 }
